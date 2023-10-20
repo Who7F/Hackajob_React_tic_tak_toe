@@ -1,6 +1,8 @@
 Hackajob Pathways. Make a tic tac toe in react.
 Taking a 'Don't reinvent the wheel' approach. Also I know how to make a tic tak toe game.
 
+<Game />
+
 1. Find a tic tak toe that I like the look of.
 2. Run the game and see what fails.
 3. 1st Fail one, no class called 'square'
